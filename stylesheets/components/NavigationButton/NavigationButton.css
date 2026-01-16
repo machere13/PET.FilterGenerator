@@ -1,6 +1,6 @@
 .NavigationButton_wrapper {
     width: 100%;
-    padding: var(--spacing-x1) var(--spacing-x4);
+    padding: var(--spacing-x2) var(--spacing-x4);
     border-radius: var(--border-radius-x2);
     background: transparent;
     transition: all 0.15s linear;

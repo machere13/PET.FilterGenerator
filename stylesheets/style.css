@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: var(--color-background-primary);
     font-family: var(--font-family-accent);

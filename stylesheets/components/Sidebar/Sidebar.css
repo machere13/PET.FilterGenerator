@@ -1,0 +1,37 @@
+.Sidebar_wrapper {
+    max-width: 240px;
+    width: 100%;
+    background: var(--color-background-secondary);
+    padding: var(--spacing-x4);
+    height: 100vh;
+    border-right: var(--border-width-x1) solid var( --color-border-primary);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.Sidebar_title {
+    font-size: 20px;
+    line-height: 120%;
+    color: var(--color-text-secondary);
+    margin-left: var(--spacing-x4);
+}
+
+.Sidebar_nav {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-x2);
+    width: 100%;
+}
+
+.Sidebar_footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: var(--spacing-x4);
+}
+
+.Sidebar_footer_text{
+    color: var(--color-text-secondary);
+    font-size: 12px;
+    line-height: 120%;
+}
