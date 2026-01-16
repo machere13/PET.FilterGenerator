@@ -2,7 +2,7 @@
     max-width: 240px;
     width: 100%;
     background: var(--color-background-secondary);
-    padding: var(--spacing-x4);
+    padding: var(--spacing-x8) var(--spacing-x4);
     height: 100vh;
     border-right: var(--border-width-x1) solid var( --color-border-primary);
     display: flex;
