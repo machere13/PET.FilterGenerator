@@ -37,6 +37,11 @@ h3 {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 120%;
+}
+
+span {
+    font-size: 14px;
+    line-height: 120%; 
 }
