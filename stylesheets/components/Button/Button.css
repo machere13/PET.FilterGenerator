@@ -1,0 +1,18 @@
+.Button_wrapper {
+    background: var(--color-background-tertiary);
+    color: var(--color-text-primary);
+    padding: var(--spacing-x2) var(--spacing-x4);
+    border: var(--border-width-x1) solid transparent;
+    border-radius: var(--border-radius-x2);
+    transition: .15s all linear;
+    height: fit-content;
+    cursor: pointer;
+}
+
+.Button_wrapper:hover {
+    background: var(--color-background-secondary);
+}
+
+.Button_wrapper:active {
+    border-color: var(--color-border-primary);
+}

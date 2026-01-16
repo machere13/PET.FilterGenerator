@@ -15,6 +15,12 @@ a {
     line-height: 120%;
 }
 
+button {
+    font-size: 18px;
+    line-height: 120%;
+    font-family: var(--font-family-accent);
+}
+
 h1 {
     font-size: 72px;
     line-height: 100%;
