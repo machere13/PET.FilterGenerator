@@ -5,6 +5,9 @@
 body {
     background: var(--color-background-primary);
     font-family: var(--font-family-accent);
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
 }
 
 a {
