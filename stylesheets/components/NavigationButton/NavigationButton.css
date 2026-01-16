@@ -1,0 +1,14 @@
+.NavigationButton_wrapper {
+    width: 100%;
+    padding: var(--spacing-x1) var(--spacing-x4);
+    border-radius: var(--border-radius-x2);
+    background: transparent;
+    transition: all 0.15s linear;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+}
+
+.NavigationButton_wrapper:hover{
+    background: var(--color-background-tertiary);
+    color: var(--color-text-primary);
+}

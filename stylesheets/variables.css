@@ -1,6 +1,7 @@
 :root {
     --color-background-primary: #131313;
     --color-background-secondary: #212121;
+    --color-background-tertiary: #3D3D3D;
     --color-text-primary: #FFFFFF;
     --color-text-secondary: #808080;
     --color-border-primary: #2D2D2D;
@@ -19,4 +20,6 @@
     --border-radius-x8: 32px;
 
     --border-width-x1: 1px;
+
+    --font-family-accent: 'NotoSerif';
 }
