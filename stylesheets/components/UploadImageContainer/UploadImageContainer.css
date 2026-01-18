@@ -14,10 +14,13 @@
     flex-direction: column;
     gap: var(--spacing-x4);
     align-items: center;
+    box-sizing: border-box;
+    width: 360px;
 }
 
 .UploadImageContainer_drop_section--dragover {
     border-style: dashed;
+    border-color: var(--color-text-primary)
 }
 
 .UploadImageContainer_text{
