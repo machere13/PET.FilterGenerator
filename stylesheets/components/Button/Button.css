@@ -11,8 +11,10 @@
 
 .Button_wrapper:hover {
     background: var(--color-background-secondary);
+    border-color: var(--color-border-primary);
 }
 
 .Button_wrapper:active {
+    background: var(--color-background-tertiary);
     border-color: var(--color-border-primary);
 }
